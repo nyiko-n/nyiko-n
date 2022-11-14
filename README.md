@@ -5,8 +5,7 @@
 - 🤔 I’m looking for help with into get into the data analysis industry
 - 💬 Ask me about all things finance and investment
 - 📫 How to reach me: https://www.linkedin.com/in/nyikondlebe/
-- ⚡ Fun fact: I am an adrenaline junky that's terrified of birds 
--->
+- ⚡ Fun fact: I am an adrenaline junky that's terrified of birds 😥
 
 <!--
 **nyiko-n/nyiko-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
